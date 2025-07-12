@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi World! I'm Fabianugerah 👋🏼</h1>
 
 ---
@@ -21,11 +19,18 @@
 </p>
 
 <div align="center">
+  <a href="https://www.instagram.com/fbian_nugrhx/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/fabian.nugrah?mibextid=ZbWKwL">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://dribbble.com/Fabianugerah">
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fabianugerah-bainasshiddiq-3a7645309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ---
@@ -58,4 +63,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31j66ur245744qeyc4z3mfdv7hem&count=3" alt="Spotify recently played" />
   </a>
 </div>
-
