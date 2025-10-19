@@ -1,3 +1,4 @@
+![Background Demon Slayer](image/bg-demon-slayer.jpeg)
 <h1 align="center">Hi World! I'm Fabianugerah 👋🏼</h1>
 
 ---
